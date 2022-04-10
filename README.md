@@ -1,4 +1,4 @@
-# Practice_Inheritance
+# Tugas_Inheritance
 
 Fadjrin Diraja M 1904077
 Rifdah Larasati 1909878
